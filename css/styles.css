@@ -53,7 +53,7 @@ a, a:hover {
 } 
 
 #carouselButton {
-  position: absolute;
+  position:absolute;
   right: 0;
   bottom: 0;
   z-index: 100;
